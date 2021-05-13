@@ -1,0 +1,9 @@
+.signature {
+    font-family: sans-serif;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    color: grey;
+    font-size: 0.7em;
+    font-weight: 300;
+}
